@@ -14,8 +14,8 @@ https://secure.sakura.ad.jp/vps/#/startupscripts/9bda5985-394f-4821-b455-c1f189c
 20~30分ほどでブラウザからMastodonにアクセスできるようになる。
 
 ## Mastodonサーバ管理
-1. 管理者アカウント作成
-通常通り登録したアカウントに対し下記のコマンドで管理者権限を付与する。
+1. 管理者アカウント作成   
+事前に登録したアカウントに対し下記のコマンドで管理者権限を付与する。
 ```
 su - mastodon
 cd /home/mastodon/live/bin/
