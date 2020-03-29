@@ -5,7 +5,7 @@
 ## さくらvpsによるmastodonサーバ構築
 1. さくらvpsを契約する。(現在はメモリ1GB、ストレージ50GBの契約)
 
-2. 事前作業
+2. 事前作業   
 https://secure.sakura.ad.jp/vps/#/startupscripts/9bda5985-394f-4821-b455-c1f189c4f8b6   
 ↑に従って「ドメイン取得」、「逆引き設定」、「DNS設定」を実施する。
 
